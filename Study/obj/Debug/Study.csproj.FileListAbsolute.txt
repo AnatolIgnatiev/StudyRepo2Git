@@ -1,0 +1,7 @@
+D:\Programing\Practice\StudyRepo2\Study\bin\Debug\Study.exe.config
+D:\Programing\Practice\StudyRepo2\Study\bin\Debug\Study.exe
+D:\Programing\Practice\StudyRepo2\Study\bin\Debug\Study.pdb
+D:\Programing\Practice\StudyRepo2\Study\obj\Debug\Study.csprojAssemblyReference.cache
+D:\Programing\Practice\StudyRepo2\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+D:\Programing\Practice\StudyRepo2\Study\obj\Debug\Study.exe
+D:\Programing\Practice\StudyRepo2\Study\obj\Debug\Study.pdb
