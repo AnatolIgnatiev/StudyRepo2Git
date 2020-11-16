@@ -12,11 +12,7 @@ namespace Task_5
     //трока должна быть разбита на строчки длиной ровно по 40 символов (за исключением последней, которая может содержать меньше 40 символов).
     //	3A4B7D
     // 22D7AC18FGD
-    class CodedString
-    {
-        public int NumberOfRepeats { get; set; }
-        public string Symbol { get; set; }
-    }
+    
     class Program
     {
         static void Main(string[] args)
