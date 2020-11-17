@@ -1,0 +1,7 @@
+
+*.exe
+*.txt
+*.cache
+*.pdb
+Task 2/bin/Debug/Task 2.exe.config
+*.config
